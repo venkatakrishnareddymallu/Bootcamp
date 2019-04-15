@@ -1,0 +1,12 @@
+{
+  "name": "Insight-Gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "@hettiger/d3js-wordcloud": "latest",
+    "d3-cloud": "^1.2.5",
+    "g1": "^0.16.2",
+    "vega": "^4.4.0"
+  }
+}

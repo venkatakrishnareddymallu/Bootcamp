@@ -1,0 +1,2552 @@
+{
+    "2016":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 16.4
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 18.9
+  },
+  {
+    "name": "Assam",
+    "score": 21.7
+  },
+  {
+    "name": "Bihar",
+    "score": 26.8
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 22.8
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 15.5
+  },
+  {
+    "name": "Goa",
+    "score": 12.9
+  },
+  {
+    "name": "Gujarat",
+    "score": 20.1
+  },
+  {
+    "name": "Haryana",
+    "score": 20.7
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 15.7
+  },
+  {
+    "name": "Jharkhand",
+    "score": 22.9
+  },
+  {
+    "name": "Karnataka",
+    "score": 17.6
+  },
+  {
+    "name": "Kerala",
+    "score": 14.3
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 25.1
+  },
+  {
+    "name": "Maharashtra",
+    "score": 15.9
+  },
+  {
+    "name": "Manipur",
+    "score": 12.9
+  },
+  {
+    "name": "Meghalaya",
+    "score": 23.7
+  },
+  {
+    "name": "Mizoram",
+    "score": 15.5
+  },
+  {
+    "name": "Nagaland",
+    "score": 14
+  },
+  {
+    "name": "Odisha",
+    "score": 18.6
+  },
+  {
+    "name": "Punjab",
+    "score": 14.9
+  },
+  {
+    "name": "Rajasthan",
+    "score": 24.3
+  },
+  {
+    "name": "Sikkim",
+    "score": 16.6
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15
+  },
+  {
+    "name": "Telangana",
+    "score": 17.5
+  },
+  {
+    "name": "Tripura",
+    "score": 13.7
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 26.2
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 16.6
+  },
+  {
+    "name": "West Bengal",
+    "score": 15.4
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 11.7
+  },
+  {
+    "name": "Chandigarh",
+    "score": 13.9
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 24.5
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 24
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 18.9
+  },
+  {
+    "name": "Puducherry",
+    "score": 13.9
+  },
+  {
+    "name": "India",
+    "score": 20.4
+  }
+    ],
+ "2015":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 16.8
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 18.8
+  },
+  {
+    "name": "Assam",
+    "score": 22
+  },
+  {
+    "name": "Bihar",
+    "score": 26.3
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 23.2
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 16.4
+  },
+  {
+    "name": "Goa",
+    "score": 12.7
+  },
+  {
+    "name": "Gujarat",
+    "score": 20.4
+  },
+  {
+    "name": "Haryana",
+    "score": 20.9
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16.3
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 16.2
+  },
+  {
+    "name": "Jharkhand",
+    "score": 23.5
+  },
+  {
+    "name": "Karnataka",
+    "score": 17.9
+  },
+  {
+    "name": "Kerala",
+    "score": 14.8
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 25.5
+  },
+  {
+    "name": "Maharashtra",
+    "score": 16.3
+  },
+  {
+    "name": "Manipur",
+    "score": 14.4
+  },
+  {
+    "name": "Meghalaya",
+    "score": 23.7
+  },
+  {
+    "name": "Mizoram",
+    "score": 16.2
+  },
+  {
+    "name": "Nagaland",
+    "score": 14.8
+  },
+  {
+    "name": "Odisha",
+    "score": 19.2
+  },
+  {
+    "name": "Punjab",
+    "score": 15.2
+  },
+  {
+    "name": "Rajasthan",
+    "score": 24.8
+  },
+  {
+    "name": "Sikkim",
+    "score": 17
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.2
+  },
+  {
+    "name": "Telangana",
+    "score": 17.8
+  },
+  {
+    "name": "Tripura",
+    "score": 14.7
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 26.7
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 17.8
+  },
+  {
+    "name": "West Bengal",
+    "score": 15.5
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 12
+  },
+  {
+    "name": "Chandigarh",
+    "score": 13.7
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 25.5
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 17.1
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14.7
+  },
+  {
+    "name": "Puducherry",
+    "score": 13.8
+  },
+  {
+    "name": "India",
+    "score": 20.8
+  }
+ ],
+ "2014":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 17
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 19.2
+  },
+  {
+    "name": "Assam",
+    "score": 22.4
+  },
+  {
+    "name": "Bihar",
+    "score": 25.9
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 23.4
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 16.8
+  },
+  {
+    "name": "Goa",
+    "score": 12.9
+  },
+  {
+    "name": "Gujarat",
+    "score": 20.6
+  },
+  {
+    "name": "Haryana",
+    "score": 21.2
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16.4
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 16.8
+  },
+  {
+    "name": "Jharkhand",
+    "score": 23.8
+  },
+  {
+    "name": "Karnataka",
+    "score": 18.1
+  },
+  {
+    "name": "Kerala",
+    "score": 14.8
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 25.7
+  },
+  {
+    "name": "Maharashtra",
+    "score": 16.5
+  },
+  {
+    "name": "Manipur",
+    "score": 14.6
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.1
+  },
+  {
+    "name": "Mizoram",
+    "score": 16.4
+  },
+  {
+    "name": "Nagaland",
+    "score": 15.3
+  },
+  {
+    "name": "Odisha",
+    "score": 19.4
+  },
+  {
+    "name": "Punjab",
+    "score": 15.5
+  },
+  {
+    "name": "Rajasthan",
+    "score": 25
+  },
+  {
+    "name": "Sikkim",
+    "score": 17.1
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.4
+  },
+  {
+    "name": "Telangana",
+    "score": 18
+  },
+  {
+    "name": "Tripura",
+    "score": 14.9
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 27
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 18.2
+  },
+  {
+    "name": "West Bengal",
+    "score": 15.6
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 14.7
+  },
+  {
+    "name": "Chandigarh",
+    "score": 14.3
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 25.6
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 17.3
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14
+  },
+  {
+    "name": "Puducherry",
+    "score": 14.6
+  },
+  {
+    "name": "India",
+    "score": 21
+  }
+ ],
+ "2013":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 17.4
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 19.3
+  },
+  {
+    "name": "Assam",
+    "score": 22.4
+  },
+  {
+    "name": "Bihar",
+    "score": 27.6
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 24.4
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 17.2
+  },
+  {
+    "name": "Goa",
+    "score": 13
+  },
+  {
+    "name": "Gujarat",
+    "score": 20.8
+  },
+  {
+    "name": "Haryana",
+    "score": 21.3
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 17.5
+  },
+  {
+    "name": "Jharkhand",
+    "score": 24.6
+  },
+  {
+    "name": "Karnataka",
+    "score": 18.3
+  },
+  {
+    "name": "Kerala",
+    "score": 14.7
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 26.3
+  },
+  {
+    "name": "Maharashtra",
+    "score": 16.5
+  },
+  {
+    "name": "Manipur",
+    "score": 14.7
+  },
+  {
+    "name": "Meghalaya",
+    "score": 23.9
+  },
+  {
+    "name": "Mizoram",
+    "score": 16.1
+  },
+  {
+    "name": "Nagaland",
+    "score": 15.4
+  },
+  {
+    "name": "Odisha",
+    "score": 19.6
+  },
+  {
+    "name": "Punjab",
+    "score": 15.7
+  },
+  {
+    "name": "Rajasthan",
+    "score": 25.6
+  },
+  {
+    "name": "Sikkim",
+    "score": 17.1
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.6
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 13.7
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 27.2
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 18.2
+  },
+  {
+    "name": "West Bengal",
+    "score": 16
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 14.6
+  },
+  {
+    "name": "Chandigarh",
+    "score": 14.7
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 25.5
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 17.9
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14.8
+  },
+  {
+    "name": "Puducherry",
+    "score": 15.7
+  },
+  {
+    "name": "India",
+    "score": 21.4
+  }
+ ],
+ "2012":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 17.5
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 19.4
+  },
+  {
+    "name": "Assam",
+    "score": 22.5
+  },
+  {
+    "name": "Bihar",
+    "score": 27.7
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 24.5
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 17.3
+  },
+  {
+    "name": "Goa",
+    "score": 13.1
+  },
+  {
+    "name": "Gujarat",
+    "score": 21.1
+  },
+  {
+    "name": "Haryana",
+    "score": 21.6
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16.2
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 17.6
+  },
+  {
+    "name": "Jharkhand",
+    "score": 24.7
+  },
+  {
+    "name": "Karnataka",
+    "score": 18.5
+  },
+  {
+    "name": "Kerala",
+    "score": 14.9
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 26.6
+  },
+  {
+    "name": "Maharashtra",
+    "score": 16.6
+  },
+  {
+    "name": "Manipur",
+    "score": 14.6
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.1
+  },
+  {
+    "name": "Mizoram",
+    "score": 16.3
+  },
+  {
+    "name": "Nagaland",
+    "score": 15.6
+  },
+  {
+    "name": "Odisha",
+    "score": 19.9
+  },
+  {
+    "name": "Punjab",
+    "score": 15.9
+  },
+  {
+    "name": "Rajasthan",
+    "score": 25.9
+  },
+  {
+    "name": "Sikkim",
+    "score": 17.2
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.7
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 13.9
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 27.4
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 18.5
+  },
+  {
+    "name": "West Bengal",
+    "score": 16.1
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 15
+  },
+  {
+    "name": "Chandigarh",
+    "score": 14.8
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 25.6
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 18.1
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14.8
+  },
+  {
+    "name": "Puducherry",
+    "score": 15.8
+  },
+  {
+    "name": "India",
+    "score": 21.6
+  }
+ ],
+ "2011":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 17.5
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 19.8
+  },
+  {
+    "name": "Assam",
+    "score": 22.8
+  },
+  {
+    "name": "Bihar",
+    "score": 27.7
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 24.9
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 17.5
+  },
+  {
+    "name": "Goa",
+    "score": 13.3
+  },
+  {
+    "name": "Gujarat",
+    "score": 21.3
+  },
+  {
+    "name": "Haryana",
+    "score": 21.8
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16.5
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 17.8
+  },
+  {
+    "name": "Jharkhand",
+    "score": 24.6
+  },
+  {
+    "name": "Karnataka",
+    "score": 18.8
+  },
+  {
+    "name": "Kerala",
+    "score": 15.2
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 26.9
+  },
+  {
+    "name": "Maharashtra",
+    "score": 16.7
+  },
+  {
+    "name": "Manipur",
+    "score": 14.4
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.1
+  },
+  {
+    "name": "Mizoram",
+    "score": 16.6
+  },
+  {
+    "name": "Nagaland",
+    "score": 16.1
+  },
+  {
+    "name": "Odisha",
+    "score": 20.1
+  },
+  {
+    "name": "Punjab",
+    "score": 16.2
+  },
+  {
+    "name": "Rajasthan",
+    "score": 26.2
+  },
+  {
+    "name": "Sikkim",
+    "score": 17.6
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.9
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 14.3
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 27.8
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 18.9
+  },
+  {
+    "name": "West Bengal",
+    "score": 16.3
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 15.1
+  },
+  {
+    "name": "Chandigarh",
+    "score": 15
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 26.1
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 18.4
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14.7
+  },
+  {
+    "name": "Puducherry",
+    "score": 16.1
+  },
+  {
+    "name": "India",
+    "score": 21.8
+  }
+ ],
+ "2010":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 17.9
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 20.5
+  },
+  {
+    "name": "Assam",
+    "score": 23.2
+  },
+  {
+    "name": "Bihar",
+    "score": 28.1
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 25.3
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 17.8
+  },
+  {
+    "name": "Goa",
+    "score": 13.2
+  },
+  {
+    "name": "Gujarat",
+    "score": 21.8
+  },
+  {
+    "name": "Haryana",
+    "score": 22.3
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 16.9
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.3
+  },
+  {
+    "name": "Jharkhand",
+    "score": 25.3
+  },
+  {
+    "name": "Karnataka",
+    "score": 19.2
+  },
+  {
+    "name": "Kerala",
+    "score": 14.8
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 27.3
+  },
+  {
+    "name": "Maharashtra",
+    "score": 17.1
+  },
+  {
+    "name": "Manipur",
+    "score": 14.9
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.5
+  },
+  {
+    "name": "Mizoram",
+    "score": 17.1
+  },
+  {
+    "name": "Nagaland",
+    "score": 16.8
+  },
+  {
+    "name": "Odisha",
+    "score": 20.5
+  },
+  {
+    "name": "Punjab",
+    "score": 16.6
+  },
+  {
+    "name": "Rajasthan",
+    "score": 26.7
+  },
+  {
+    "name": "Sikkim",
+    "score": 17.8
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.9
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 14.9
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 28.3
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 19.3
+  },
+  {
+    "name": "West Bengal",
+    "score": 16.8
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 15.6
+  },
+  {
+    "name": "Chandigarh",
+    "score": 15.6
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 26.6
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 18.8
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14.3
+  },
+  {
+    "name": "Puducherry",
+    "score": 16.7
+  },
+  {
+    "name": "India",
+    "score": 22.1
+  }
+ ],
+ "2009":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 18.3
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 21.1
+  },
+  {
+    "name": "Assam",
+    "score": 23.6
+  },
+  {
+    "name": "Bihar",
+    "score": 28.5
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 25.7
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.1
+  },
+  {
+    "name": "Goa",
+    "score": 13.5
+  },
+  {
+    "name": "Gujarat",
+    "score": 22.3
+  },
+  {
+    "name": "Haryana",
+    "score": 22.7
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 17.2
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.6
+  },
+  {
+    "name": "Jharkhand",
+    "score": 25.6
+  },
+  {
+    "name": "Karnataka",
+    "score": 19.5
+  },
+  {
+    "name": "Kerala",
+    "score": 14.7
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 27.7
+  },
+  {
+    "name": "Maharashtra",
+    "score": 17.6
+  },
+  {
+    "name": "Manipur",
+    "score": 15.4
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.4
+  },
+  {
+    "name": "Mizoram",
+    "score": 17.6
+  },
+  {
+    "name": "Nagaland",
+    "score": 17.2
+  },
+  {
+    "name": "Odisha",
+    "score": 21
+  },
+  {
+    "name": "Punjab",
+    "score": 17
+  },
+  {
+    "name": "Rajasthan",
+    "score": 27.2
+  },
+  {
+    "name": "Sikkim",
+    "score": 18.1
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 16.3
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 14.8
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 28.7
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 19.7
+  },
+  {
+    "name": "West Bengal",
+    "score": 17.2
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 16.3
+  },
+  {
+    "name": "Chandigarh",
+    "score": 15.9
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 27
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 19.2
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 15
+  },
+  {
+    "name": "Puducherry",
+    "score": 16.5
+  },
+  {
+    "name": "India",
+    "score": 22.5
+  }
+ ],
+ "2008":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 18.4
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 21.8
+  },
+  {
+    "name": "Assam",
+    "score": 23.9
+  },
+  {
+    "name": "Bihar",
+    "score": 28.9
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 26.1
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.4
+  },
+  {
+    "name": "Goa",
+    "score": 13.6
+  },
+  {
+    "name": "Gujarat",
+    "score": 22.6
+  },
+  {
+    "name": "Haryana",
+    "score": 23
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 17.7
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.8
+  },
+  {
+    "name": "Jharkhand",
+    "score": 25.8
+  },
+  {
+    "name": "Karnataka",
+    "score": 19.8
+  },
+  {
+    "name": "Kerala",
+    "score": 14.6
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 28
+  },
+  {
+    "name": "Maharashtra",
+    "score": 17.9
+  },
+  {
+    "name": "Manipur",
+    "score": 15.8
+  },
+  {
+    "name": "Meghalaya",
+    "score": 25.2
+  },
+  {
+    "name": "Mizoram",
+    "score": 17.8
+  },
+  {
+    "name": "Nagaland",
+    "score": 17.5
+  },
+  {
+    "name": "Odisha",
+    "score": 21.4
+  },
+  {
+    "name": "Punjab",
+    "score": 17.3
+  },
+  {
+    "name": "Rajasthan",
+    "score": 27.5
+  },
+  {
+    "name": "Sikkim",
+    "score": 18.4
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 16
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 15.4
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 29.1
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 20.1
+  },
+  {
+    "name": "West Bengal",
+    "score": 17.5
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 16.9
+  },
+  {
+    "name": "Chandigarh",
+    "score": 16.4
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 27
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 17.5
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 14.3
+  },
+  {
+    "name": "Puducherry",
+    "score": 16.4
+  },
+  {
+    "name": "India",
+    "score": 22.8
+  }
+ ],
+ "2007":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 18.7
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 22.2
+  },
+  {
+    "name": "Assam",
+    "score": 24.3
+  },
+  {
+    "name": "Bihar",
+    "score": 29.4
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 26.5
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.1
+  },
+  {
+    "name": "Goa",
+    "score": 14.7
+  },
+  {
+    "name": "Gujarat",
+    "score": 23
+  },
+  {
+    "name": "Haryana",
+    "score": 23.4
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 17.4
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 19
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.1
+  },
+  {
+    "name": "Karnataka",
+    "score": 19.9
+  },
+  {
+    "name": "Kerala",
+    "score": 14.7
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 28.5
+  },
+  {
+    "name": "Maharashtra",
+    "score": 18.1
+  },
+  {
+    "name": "Manipur",
+    "score": 14.6
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.4
+  },
+  {
+    "name": "Mizoram",
+    "score": 18.2
+  },
+  {
+    "name": "Nagaland",
+    "score": 17.4
+  },
+  {
+    "name": "Odisha",
+    "score": 21.5
+  },
+  {
+    "name": "Punjab",
+    "score": 17.6
+  },
+  {
+    "name": "Rajasthan",
+    "score": 27.9
+  },
+  {
+    "name": "Sikkim",
+    "score": 18.1
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 15.8
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 17.1
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 29.5
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 20.4
+  },
+  {
+    "name": "West Bengal",
+    "score": 17.9
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 15.8
+  },
+  {
+    "name": "Chandigarh",
+    "score": 15.7
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 27.8
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 17.8
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 18.3
+  },
+  {
+    "name": "Puducherry",
+    "score": 15.1
+  },
+  {
+    "name": "India",
+    "score": 23.1
+  }
+ ],
+ "2006":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 18.9
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 22.5
+  },
+  {
+    "name": "Assam",
+    "score": 24.6
+  },
+  {
+    "name": "Bihar",
+    "score": 29.9
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 26.9
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.4
+  },
+  {
+    "name": "Goa",
+    "score": 15.1
+  },
+  {
+    "name": "Gujarat",
+    "score": 23.5
+  },
+  {
+    "name": "Haryana",
+    "score": 23.9
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 18.8
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.7
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.2
+  },
+  {
+    "name": "Karnataka",
+    "score": 20.1
+  },
+  {
+    "name": "Kerala",
+    "score": 14.9
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 29.1
+  },
+  {
+    "name": "Maharashtra",
+    "score": 18.5
+  },
+  {
+    "name": "Manipur",
+    "score": 13.4
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.7
+  },
+  {
+    "name": "Mizoram",
+    "score": 17.8
+  },
+  {
+    "name": "Nagaland",
+    "score": 17.3
+  },
+  {
+    "name": "Odisha",
+    "score": 21.9
+  },
+  {
+    "name": "Punjab",
+    "score": 17.8
+  },
+  {
+    "name": "Rajasthan",
+    "score": 28.3
+  },
+  {
+    "name": "Sikkim",
+    "score": 19.2
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 16.2
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 16.6
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 30.1
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 21
+  },
+  {
+    "name": "West Bengal",
+    "score": 18.4
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 15.7
+  },
+  {
+    "name": "Chandigarh",
+    "score": 15.8
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 28.1
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 18.4
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 18.9
+  },
+  {
+    "name": "Puducherry",
+    "score": 15.7
+  },
+  {
+    "name": "India",
+    "score": 23.5
+  }
+ ],
+ "2005":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 19.1
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 23.3
+  },
+  {
+    "name": "Assam",
+    "score": 25
+  },
+  {
+    "name": "Bihar",
+    "score": 30.4
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 27.2
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.6
+  },
+  {
+    "name": "Goa",
+    "score": 14.8
+  },
+  {
+    "name": "Gujarat",
+    "score": 23.7
+  },
+  {
+    "name": "Haryana",
+    "score": 24.3
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 20
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.9
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.8
+  },
+  {
+    "name": "Karnataka",
+    "score": 20.6
+  },
+  {
+    "name": "Kerala",
+    "score": 15
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 29.4
+  },
+  {
+    "name": "Maharashtra",
+    "score": 19
+  },
+  {
+    "name": "Manipur",
+    "score": 14.7
+  },
+  {
+    "name": "Meghalaya",
+    "score": 25.1
+  },
+  {
+    "name": "Mizoram",
+    "score": 18.8
+  },
+  {
+    "name": "Nagaland",
+    "score": 16.4
+  },
+  {
+    "name": "Odisha",
+    "score": 22.3
+  },
+  {
+    "name": "Punjab",
+    "score": 18.1
+  },
+  {
+    "name": "Rajasthan",
+    "score": 28.6
+  },
+  {
+    "name": "Sikkim",
+    "score": 19.9
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 16.5
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 16
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 30.4
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 20.9
+  },
+  {
+    "name": "West Bengal",
+    "score": 18.8
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 15.7
+  },
+  {
+    "name": "Chandigarh",
+    "score": 17.3
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 29.4
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 19.1
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 19.1
+  },
+  {
+    "name": "Puducherry",
+    "score": 16.2
+  },
+  {
+    "name": "India",
+    "score": 23.8
+  }
+ ],
+ "2004":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 19
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 21.2
+  },
+  {
+    "name": "Assam",
+    "score": 25.1
+  },
+  {
+    "name": "Bihar",
+    "score": 30.2
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 27.4
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.4
+  },
+  {
+    "name": "Goa",
+    "score": 13.8
+  },
+  {
+    "name": "Gujarat",
+    "score": 24.3
+  },
+  {
+    "name": "Haryana",
+    "score": 25.1
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 19.2
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.7
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.2
+  },
+  {
+    "name": "Karnataka",
+    "score": 20.9
+  },
+  {
+    "name": "Kerala",
+    "score": 15.2
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 29.8
+  },
+  {
+    "name": "Maharashtra",
+    "score": 19.1
+  },
+  {
+    "name": "Manipur",
+    "score": 13.9
+  },
+  {
+    "name": "Meghalaya",
+    "score": 25.2
+  },
+  {
+    "name": "Mizoram",
+    "score": 19.1
+  },
+  {
+    "name": "Nagaland",
+    "score": 13.9
+  },
+  {
+    "name": "Odisha",
+    "score": 22.7
+  },
+  {
+    "name": "Punjab",
+    "score": 18.7
+  },
+  {
+    "name": "Rajasthan",
+    "score": 29
+  },
+  {
+    "name": "Sikkim",
+    "score": 19.5
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 17.1
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 15
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 30.8
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 20.5
+  },
+  {
+    "name": "West Bengal",
+    "score": 19.3
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 16.9
+  },
+  {
+    "name": "Chandigarh",
+    "score": 16.1
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 28.8
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 20
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 20.4
+  },
+  {
+    "name": "Puducherry",
+    "score": 17
+  },
+  {
+    "name": "India",
+    "score": 24.1
+  }
+ ],
+ "2003":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 20.4
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 18.9
+  },
+  {
+    "name": "Assam",
+    "score": 26.3
+  },
+  {
+    "name": "Bihar",
+    "score": 30.7
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 25.2
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 17.3
+  },
+  {
+    "name": "Goa",
+    "score": 13.9
+  },
+  {
+    "name": "Gujarat",
+    "score": 24.6
+  },
+  {
+    "name": "Haryana",
+    "score": 26.3
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 20.6
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 18.6
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.3
+  },
+  {
+    "name": "Karnataka",
+    "score": 21.8
+  },
+  {
+    "name": "Kerala",
+    "score": 16.7
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 30.2
+  },
+  {
+    "name": "Maharashtra",
+    "score": 19.9
+  },
+  {
+    "name": "Manipur",
+    "score": 15.5
+  },
+  {
+    "name": "Meghalaya",
+    "score": 24.7
+  },
+  {
+    "name": "Mizoram",
+    "score": 16
+  },
+  {
+    "name": "Nagaland",
+    "score": "NA"
+  },
+  {
+    "name": "Odisha",
+    "score": 23
+  },
+  {
+    "name": "Punjab",
+    "score": 20.6
+  },
+  {
+    "name": "Rajasthan",
+    "score": 30.3
+  },
+  {
+    "name": "Sikkim",
+    "score": 21.9
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 18.3
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 14.5
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 31.3
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 17.2
+  },
+  {
+    "name": "West Bengal",
+    "score": 20.3
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 17.1
+  },
+  {
+    "name": "Chandigarh",
+    "score": 14.8
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 30.3
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 22.4
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 19
+  },
+  {
+    "name": "Puducherry",
+    "score": 17.5
+  },
+  {
+    "name": "India",
+    "score": 24.8
+  }
+ ],
+ "2002":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 20.7
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 20.2
+  },
+  {
+    "name": "Assam",
+    "score": 26.6
+  },
+  {
+    "name": "Bihar",
+    "score": 30.9
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 25
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 17.2
+  },
+  {
+    "name": "Goa",
+    "score": 14
+  },
+  {
+    "name": "Gujarat",
+    "score": 24.7
+  },
+  {
+    "name": "Haryana",
+    "score": 26.6
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 20.7
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 19.2
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.4
+  },
+  {
+    "name": "Karnataka",
+    "score": 22.1
+  },
+  {
+    "name": "Kerala",
+    "score": 16.9
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 30.4
+  },
+  {
+    "name": "Maharashtra",
+    "score": 20.3
+  },
+  {
+    "name": "Manipur",
+    "score": 16.8
+  },
+  {
+    "name": "Meghalaya",
+    "score": 25.8
+  },
+  {
+    "name": "Mizoram",
+    "score": 16.9
+  },
+  {
+    "name": "Nagaland",
+    "score": "NA"
+  },
+  {
+    "name": "Odisha",
+    "score": 23.2
+  },
+  {
+    "name": "Punjab",
+    "score": 20.8
+  },
+  {
+    "name": "Rajasthan",
+    "score": 30.6
+  },
+  {
+    "name": "Sikkim",
+    "score": 21.9
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 18.5
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 14.9
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 31.6
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 17
+  },
+  {
+    "name": "West Bengal",
+    "score": 20.5
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 16.8
+  },
+  {
+    "name": "Chandigarh",
+    "score": 14.6
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 30.4
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 22.4
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 19.3
+  },
+  {
+    "name": "Puducherry",
+    "score": 17.9
+  },
+  {
+    "name": "India",
+    "score": 25
+  }
+ ],
+ "2001":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 21
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 22.2
+  },
+  {
+    "name": "Assam",
+    "score": 27
+  },
+  {
+    "name": "Bihar",
+    "score": 31.2
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 26.5
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 18.9
+  },
+  {
+    "name": "Goa",
+    "score": 14.2
+  },
+  {
+    "name": "Gujarat",
+    "score": 25
+  },
+  {
+    "name": "Haryana",
+    "score": 26.8
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 21.2
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 20.2
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.2
+  },
+  {
+    "name": "Karnataka",
+    "score": 22.3
+  },
+  {
+    "name": "Kerala",
+    "score": 17.3
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 31
+  },
+  {
+    "name": "Maharashtra",
+    "score": 20.7
+  },
+  {
+    "name": "Manipur",
+    "score": 18.3
+  },
+  {
+    "name": "Meghalaya",
+    "score": 28.3
+  },
+  {
+    "name": "Mizoram",
+    "score": 15.7
+  },
+  {
+    "name": "Nagaland",
+    "score": "NA"
+  },
+  {
+    "name": "Odisha",
+    "score": 23.5
+  },
+  {
+    "name": "Punjab",
+    "score": 21.2
+  },
+  {
+    "name": "Rajasthan",
+    "score": 31.1
+  },
+  {
+    "name": "Sikkim",
+    "score": 21.6
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 19.1
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 16.1
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 32.1
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 18.5
+  },
+  {
+    "name": "West Bengal",
+    "score": 20.6
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 16.8
+  },
+  {
+    "name": "Chandigarh",
+    "score": 16.3
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 29.5
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 22.3
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 20.4
+  },
+  {
+    "name": "Puducherry",
+    "score": 17.9
+  },
+  {
+    "name": "India",
+    "score": 25.4
+  }
+ ],
+ "2000":[
+  {
+    "name": "Andhra Pradesh",
+    "score": 21.3
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "score": 22.3
+  },
+  {
+    "name": "Assam",
+    "score": 26.9
+  },
+  {
+    "name": "Bihar",
+    "score": 31.9
+  },
+  {
+    "name": "Chattisgarh",
+    "score": 26.7
+  },
+  {
+    "name": "NCT of Delhi",
+    "score": 20.3
+  },
+  {
+    "name": "Goa",
+    "score": 14.3
+  },
+  {
+    "name": "Gujarat",
+    "score": 25.2
+  },
+  {
+    "name": "Haryana",
+    "score": 26.9
+  },
+  {
+    "name": "Himachal Pradesh",
+    "score": 22.1
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "score": 19.6
+  },
+  {
+    "name": "Jharkhand",
+    "score": 26.5
+  },
+  {
+    "name": "Karnataka",
+    "score": 22
+  },
+  {
+    "name": "Kerala",
+    "score": 17.9
+  },
+  {
+    "name": "Madhya Pradesh",
+    "score": 31.4
+  },
+  {
+    "name": "Maharashtra",
+    "score": 21
+  },
+  {
+    "name": "Manipur",
+    "score": 18.3
+  },
+  {
+    "name": "Meghalaya",
+    "score": 28.5
+  },
+  {
+    "name": "Mizoram",
+    "score": 16
+  },
+  {
+    "name": "Nagaland",
+    "score": "NA"
+  },
+  {
+    "name": "Odisha",
+    "score": 24.3
+  },
+  {
+    "name": "Punjab",
+    "score": 21.6
+  },
+  {
+    "name": "Rajasthan",
+    "score": 31.4
+  },
+  {
+    "name": "Sikkim",
+    "score": 21.8
+  },
+  {
+    "name": "Tamil Nadu",
+    "score": 19.3
+  },
+  {
+    "name": "Telangana",
+    "score": "NA"
+  },
+  {
+    "name": "Tripura",
+    "score": 16.5
+  },
+  {
+    "name": "Uttar Pradesh",
+    "score": 32.8
+  },
+  {
+    "name": "Uttarakhand",
+    "score": 20.2
+  },
+  {
+    "name": "West Bengal",
+    "score": 20.7
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "score": 19.1
+  },
+  {
+    "name": "Chandigarh",
+    "score": 17.5
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "score": 34.9
+  },
+  {
+    "name": "Daman & Diu",
+    "score": 23.7
+  },
+  {
+    "name": "Lakshadweep",
+    "score": 26.1
+  },
+  {
+    "name": "Puducherry",
+    "score": 17.8
+  },
+  {
+    "name": "India",
+    "score": 25.8
+  }
+]
+}

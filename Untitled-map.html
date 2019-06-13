@@ -1,0 +1,361 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+	<title></title>
+</head>
+<body>
+	<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-primary">
+  <a class="navbar-brand text-light" href="#">Insight Gallery</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link text-light" href="#">Interactive</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-light" href="#">Infographic</a>
+      </li>
+    </ul>
+    <div class="col-sm-4">
+    	<input class="form-control mr-sm-2 searchbox-input" type="search" placeholder="Search" aria-label="Search">
+    </div>
+  </div>
+</nav>
+<script type="text/html" src="templates/cards.html" class="cards"></script>
+</body>
+<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+<script src="node_modules/g1/dist/g1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</html> -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="leaflet.css">
+    <title></title>
+    <style scoped>
+        #choropleth-map {
+            height: 500px;
+            width: 60%;
+        }
+
+        <meta charset="utf-8"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"><style>body {
+            font-family: "avenir next", Arial, sans-serif;
+            font-size: 12px;
+            color: #696969;
+        }
+
+        #play-button {
+            position: absolute;
+            top: 140px;
+            left: 50px;
+            background: #f08080;
+            padding-right: 26px;
+            border-radius: 3px;
+            border: none;
+            color: white;
+            margin: 0;
+            padding: 0 12px;
+            width: 60px;
+            cursor: pointer;
+            height: 30px;
+        }
+
+        #play-button:hover {
+            background-color: #696969;
+        }
+
+        .ticks {
+            font-size: 10px;
+        }
+
+        .track,
+        .track-inset,
+        .track-overlay {
+            stroke-linecap: round;
+        }
+
+        .track {
+            stroke: #000;
+            stroke-opacity: 0.3;
+            stroke-width: 10px;
+        }
+
+        .track-inset {
+            stroke: #dcdcdc;
+            stroke-width: 8px;
+        }
+
+        .track-overlay {
+            pointer-events: stroke;
+            stroke-width: 50px;
+            stroke: transparent;
+            cursor: crosshair;
+        }
+
+        .handle {
+            fill: #fff;
+            stroke: #000;
+            stroke-opacity: 0.5;
+            stroke-width: 1.25px;
+        }
+    </style>
+    <link rel="stylesheet" href="slider-css.css" />
+</head>
+
+<body>
+    <div id="vis" class="d-flex align-items-center"></div>
+    <div id="choropleth-map"></div>
+    <script type="text/html" src="templates/cards.html" class="cards"></script>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+<script src="g1.min.js"></script>
+<script src="leaflet.js"></script>
+<script src="d3.js"></script>
+<script src="d3-scale-chromatic.min.js"></script>
+<script src="mapviewer.min.js"></script>
+<script>
+    var formatDateIntoYear = d3.timeFormat("%Y"),
+        formatDate = d3.timeFormat("%Y"),
+        parseDate = d3.timeParse("%Y")
+
+    ////////// slider //////////
+
+    var currentValue = 0,
+        targetValue,
+        x_scale,
+        playButton,
+        label,
+        handle,
+        slider,
+        container
+
+    function prepare(d) {
+        d.id = d.id
+        d.date = parseDate(d.date)
+        return d
+    }
+
+    function step(config) {
+        var tick_count = 34
+        updateSlider(x_scale.invert(currentValue), config)
+        console.log(currentValue)
+        currentValue = currentValue + tick_count
+        if (currentValue > targetValue) {
+            currentValue = 0
+            clearInterval(timer)
+            // timer = 0
+            playButton.text("Play")
+        }
+    }
+
+    function updateSlider(date, config) {
+        // update position and text of label according to slider scale
+        handle.attr("cx", x_scale(date))
+        label.attr("x", x_scale(date))
+            .text(formatDate(date))
+        //     console.log("Date: ", date)
+        config.action(date)
+    }
+
+    function addLabel(startDate) {
+        label = slider.append("text")
+            .attr("class", "label")
+            .attr("text-anchor", "start")
+            .text(formatDate(new Date(startDate)))
+            .attr("transform", "translate(0," + (-25) + ")")
+    }
+
+    function addPlayButton(config) {
+        //containerID = config.slider_container
+        let buttonpanel = document.createElement('div')
+        // buttonpanel.style['display'] = 'inline-block'
+        let pbutton = document.createElement('BUTTON')
+        pbutton.appendChild(document.createTextNode("play"))
+        pbutton.setAttribute('id', 'slider-play-button')
+        pbutton.setAttribute('class', 'btn btn-sm px-3')
+        buttonpanel.appendChild(pbutton)
+        container._groups[0][0].append(buttonpanel)
+
+        playButton = d3.select("#slider-play-button")
+
+        playButton.on("click", function () {
+            var button = d3.select(this)
+            if (button.text() == "Pause") {
+                clearInterval(timer)
+                // timer = 0
+                button.text("Play")
+            } else {
+                timer = setInterval(function () {
+                    step(config)
+                }, 1000)
+                button.text("Pause")
+            }
+        })
+    }
+
+    function init_slider(config) {
+        handle = slider.insert("circle", ".track-overlay")
+            .attr("class", "handle")
+            .attr("r", 9)
+        if (config.showlabel)
+            addLabel(config.startdate)
+        if (config.playbutton)
+            addPlayButton(config)
+    }
+
+    function create_slider(config, slider_container) {
+
+        let margin = { top: 50, right: 50, bottom: 0, left: 30 },
+            width = parseInt(config.width || 960) - 100,
+            height = parseInt(config.height || 500),
+            startDate = new Date(config.startdate),
+            endDate = new Date(config.enddate)
+
+        x_scale = d3.scaleTime()
+            .domain([startDate, endDate])
+            .range([0, width])
+            .clamp(true)
+        container = d3.select(slider_container)
+        let svg = container.append('div')
+            .attr('class', 'mt-2')
+            .append("svg")
+            .attr("width", config.width || 900)
+            .attr("height", 100)
+
+        slider = svg.append("g")
+            .attr("class", "slider")
+            .attr("transform", "translate(" + margin.left + "," + 45 + ")")
+
+        slider.append("line")
+            .attr("class", "track")
+            .attr("x1", x_scale.range()[0])
+            .attr("x2", x_scale.range()[1])
+            .select(function () { return this.parentNode.appendChild(this.cloneNode(true)) })
+            .attr("class", "track-inset")
+            .select(function () { return this.parentNode.appendChild(this.cloneNode(true)) })
+            .attr("class", "track-overlay")
+            .call(d3.drag()
+                .on("start.interrupt", function () { slider.interrupt() })
+                .on("start drag", function () {
+                    currentValue = d3.event.x
+                    updateSlider(x_scale.invert(currentValue), config)
+                })
+            )
+
+        slider.insert("g", ".track-overlay")
+            .attr("class", "ticks")
+            .attr("transform", "translate(0," + 18 + ")")
+            .selectAll("text")
+            .data(x_scale.ticks(10))
+            .enter()
+            .append("text")
+            .attr("x", x_scale)
+            .attr("y", 10)
+            .attr("text-anchor", "middle")
+            .text(function (d) { return formatDateIntoYear(d) })
+
+        config.slider_container = slider_container
+        targetValue = width
+        init_slider(config)
+
+    }
+
+    var slider_config = {
+        width: 700,
+        playbutton: true,
+        showlabel: true,
+        axisRange: "month",
+        startdate: "2000",
+        enddate: "2018",
+        action: dosomething
+    }
+    function dosomething(obj) {
+        console.log(render_map(obj.getFullYear()))
+    }
+    create_slider(slider_config, '#vis')
+
+    function render_map(year, a = 'choropleth-map') {
+        $.ajax({
+            url: "data.json", success: function (result) {
+                debugger
+                var choropleth_map = g1.mapviewer({
+                    id: 'choropleth-map',
+                    map: {
+                        attributionControl: false,
+                        zoomSnap: 0.1,
+                        doubleClickZoom: false,
+                        scrollWheelZoom: false,
+                        dragging: false,
+                        keyboard: false
+                    },
+                    center: [9, 76],
+                    controls: false,
+                    zoom: 2,
+                    layers: {
+                        indiaGeojson: {
+                            type: 'geojson',
+                            url: 'india-states.geojson',
+                            link: {
+                                url: result[year],
+                                dataKey: 'name',
+                                mapKey: 'ST_NM'
+                            },
+                            options: {
+                                style: {
+                                    fillColor: '#a00',
+                                    fillOpacity: 1,
+                                    minZoom: 1,
+                                    maxZoom: 1,
+
+                                    transparent: true,
+                                    preferCanvas: false
+                                }
+                            },
+                            tooltip: function (d) {
+                                return `${d.ST_NM} population: ${d.score}`;
+                            },
+                            attrs: {
+                                fillColor: { // Fill the regions
+                                    metric: 'score', // with the 'score' column from state_score.json
+                                    scheme: 'Blues' // using a RdYlGn gradient
+                                },
+                                fillOpacity: 1,
+                                color: '#fff',
+                                weight: 0.5,
+                                transparent: true,
+                                preferCanvas: false
+
+                            }
+                        }
+                    }
+                })
+                $('.leaflet-container').removeClass()
+                $('.leaflet-control').removeClass()
+                $('.leaflet-bottom').hide()
+                $('.leaflet-top').hide()
+            }
+        })
+    }
+</script>
+
+</html>

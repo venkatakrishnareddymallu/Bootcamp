@@ -335,6 +335,7 @@
             .attr("y", 10)
             .attr("text-anchor", "middle")
             .style('fill', 'white')
+	    .attr('opacity', 0)
             .text(function (d) { return formatDateIntoYear(d) })
 
         config.slider_container = slider_container

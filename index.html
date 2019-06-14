@@ -125,17 +125,24 @@
     <div id="map" style="width: 500px;height:500px;"></div>
     <div class="d-flex flex-wrap pt-3 text-center col-3">
     <div class="col-12 px-0 pt-0">
-        <h4>BIRTH RATE</h4>
+        <h4 class="text-success birth-rate">BIRTH RATE</h4>
         <ul class="list-unstyled mt-2s">
             <li class="d-flex justify-content-between birsmx"><div class="brimx">Andhra Pradesh</div><div class="text20">20</div></li>
             <li class="d-flex justify-content-between birsmi"><div class="brimn">Arunachal Pradesh</div><div class="text30">40</div></li>
         </ul>
     </div>
     <div class="col-12 px-0 pt-0">
-        <h4>DEATH RATE</h4>
+        <h4 class="text-danger death-rate">DEATH RATE</h4>
         <ul class="list-unstyled mt-2s">
             <li class="d-flex justify-content-between dirsmx"><div class="drimx">Andhra Pradesh</div><div class="dext20">20</div></li>
             <li class="d-flex justify-content-between dirsmi"><div class="drimn">Arunachal Pradesh</div><div class="dext30">23</div></li>
+        </ul>
+    </div>
+    <div class="col-12 px-0">
+        <h4>Insight</h4>
+        <ul class="list-unstyled mt-2s">
+            <li class="d-flex justify-content-between insight"><div class="inttext">insight</div></li>
+            <!-- <li class="d-flex justify-content-between dirsmi"><div class="drimn">Arunachal Pradesh</div><div class="dext30">23</div></li> -->
         </ul>
     </div>
     </div>
@@ -357,6 +364,27 @@
         $.ajax({
             url: "birth.json"
         }).done(function (result) {
+	    var insight_text = {
+  2000: " In the year 2000 Odisha birth rate is less than average but death rate stands first Similary Rajasthan records more birth rate average but death rates maintained average all the costal states have less birth rate than India avg birth rate",
+  2001: "Uttarakhand death rate increased by 13% where birth rate droped by 9%, Rajasthan and bihar records high birth rate but records less death rates",
+  2002: "Birth rate droped by 8% Arunachal Pradesh, Uttarakhand, Meghalaya and Death rate dropped by 14% in all the same states where as other states show only 2-3 % change in births and deaths",
+  2003: "Be who you are and say what you feel, because thos…nd don't matter, and those who matter don't mind.",
+  2004: "A room without books is like a body without a soul.",
+  2005: "You've gotta dance like there's nobody watching",
+  2006: "In three words I can sum up everything I've learned about life",
+  2007: "If you tell the truth, you don't have to remember anything",
+  2008: "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+  2009: "To be yourself in a world that is constantly tryin…ou something else is the greatest accomplishment.",
+  2010: "Here's to the crazy ones. The misfits. The rebels.…ee things differently. They're not fond of rules.",
+  2011: "And while some may see them as the crazy ones",
+  2013: "I have something",
+  2014: "test all the years",
+  2015: "today is gramern bootcamp",
+  2016: "all the best"
+}
+            $('.insight .inttext').html(insight_text[year])
+            temp1 = result[year]
+            $('.birth-rate').html('BIRTH RATE('+temp1[temp1.length-1].score+')')
             x = _.maxBy(result[year], function(d){ return d.score})
             y = _.minBy(result[year], function(d){ return d.score})
             $('.birsmx .brimx').html(x.name)
@@ -435,7 +463,8 @@
         $.ajax({
             url: "death.json"
         }).done(function (result) {
-            debugger
+            temp2 = result[year]
+            $('.death-rate').html('DEATH RATE('+temp2[temp2.length-1].score+')')
             x = _.maxBy(result[year], function(d){ return d.score})
             y = _.minBy(result[year], function(d){ return d.score})
             $('.dirsmx .drimx').html(x.name)
